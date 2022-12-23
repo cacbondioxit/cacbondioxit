@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @cacbondioxit
-- 👀 I’m interested in sport data analysis, data science, AI, machine learning, deep learning, mathematics(statistics, linear algebra).
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: contact me tot_nghiep@naver.com or dioxitcacbon@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacbondioxit&show_icons=true&theme=radical)
 
@@ -12,15 +7,15 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacbondioxit&langs_count=8)](https://github.com/cacbondioxit/github-readme-stats)
 
-## Interest
+## Interests
 
  - Sport Data Analysis
- - Data Science
- - Artificial Intelligence
- - Machine Learning
- - Deep Learning
  - Mathematics (Linear Algebra, Probability, Analysis, ... )
  - Statistics
+ - Data Science
+ - Artificial Intelligence
+ - Machine Learning & Deep Learning
+ - Vietnamese Language
 
 ## Contact
   - tot_nghiep@naver.com 
