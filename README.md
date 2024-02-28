@@ -10,7 +10,7 @@
 ## Interests
 
  - Sport Data Analysis
- - Mathematics (Linear Algebra, Probability, Analysis, ... )
+ - Mathematics (Algebra, Probability, Analysis, ... )
  - Statistics
  - Data Science
  - Artificial Intelligence
