@@ -1,5 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacbondioxit&show_icons=true&theme=radical)
 
 ## Tools 
 
@@ -9,13 +8,12 @@
 
 ## Interests
 
- - Sport Data Analysis
- - Mathematics (Algebra, Probability, Analysis, ... )
+ - Mathematics (Probability, Analysis, ... )
  - Statistics
  - Data Science
- - Artificial Intelligence
- - Machine Learning & Deep Learning
- - Vietnamese Language
+ - Explainable AI (xAI)
+ - Vietnamese Language NLP
+ - Sport Data Analysis
 
 ## Contact
   - tot_nghiep@naver.com 
